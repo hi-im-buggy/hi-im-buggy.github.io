@@ -2,12 +2,12 @@
 layout: about
 title: about
 permalink: /
-subtitle: Student researcher interested in interpretability, auditory processing, and multi-modal deep learning.
+subtitle: # Think of a nice subtitle later. A motto maybe?
 
 profile:
   align: right
-  image: prof_pic.jpg
-  image_circular: true # crops the image to make it circular
+  image: 'prof_pic.jpg'
+  image_circular: false # crops the image to make it circular
   more_info: # blank
 news: false # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
@@ -20,3 +20,5 @@ and [Makarand Tapaswi](https://makarandtapaswi.github.io/), currently working on
 My research is primarily concerned with how deep neural networks process and organize information for auditory tasks.
 I'm also interested in interpretability and auditory processing at large, multi-modal deep learning in vision-language
 and audio-language models.
+
+
